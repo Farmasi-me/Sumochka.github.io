@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Сумочка",
-    "currentPage": "html.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,7 +50,7 @@
     "gdpr": false
   },
   "pages": {
-    "html.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Выбор сумок",
